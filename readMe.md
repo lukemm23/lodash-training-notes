@@ -33,3 +33,8 @@ Each js file includes a commonly used lodash method explained. uncomment the js 
 19. Debounce - use debounce to control event handler running too often.
 20. Throttle - forbidding handler to send request too often with set throttle timer.
 21. Custom methods with mixins - using mixins to create custom functions to use inside lodash chains.
+22. Exercise 1 - mapping through arrays of objects, and create new array of objects combining by index of array 1 to value of array 2.
+23. Exercise 2 - using boolean variables to set conditional classnames by getting rid of (\_.compact) falsey values.
+24. Exercise 3 - using \_.reduce to replace params in URLs as a more variant immutable sulotion.
+25. Exercise 4 - normalizing backend errors into readable errors.
+26. Exercise 5 - converting flat database list into nested list with recursion.
